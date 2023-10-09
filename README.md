@@ -1,2 +1,7 @@
 # python-finance
-Python for finance exercices
+
+Python for finance exercices.
+
+Lecture 2 & 3
+
+
